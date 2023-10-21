@@ -1,13 +1,8 @@
-/*
- *   作成	Rhizome
- *------------------------------------------------------------
- * Copyright(c) Rhizome Inc. All Rights Reserved.
- */
 package kusogakiが如く;
 
 /**
  * 登場するキャラクターの情報とデフォルトの行動を設定したクラスです
- * @author rhizome
+ * 
  *
  */
 public class Character {
